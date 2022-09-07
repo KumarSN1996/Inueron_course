@@ -25,9 +25,8 @@ class Guesser {
 		} else
 			System.out.println("Number is in the allowed range ");
 		return guessnum;
-
 	}
-
+	return 0;
 }
 
 class player {
